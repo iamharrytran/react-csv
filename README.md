@@ -12,6 +12,8 @@ Generate a CSV file from given data.
 
 This data can be an array of arrays, an array of literal objects, or strings.
 
+There is some problems with original library on field: `enclosingCharacter`, will comeback to it later, need to use this immediately
+
 # Example :
 
 ```js
